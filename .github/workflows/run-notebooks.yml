@@ -29,7 +29,7 @@ jobs:
           for nb in $(git ls-files '*.ipynb'); do
             echo "Executing $nb"
             jupyter nbconvert --to notebook --inplace --execute "$nb" --ExecutePreprocessor.timeout=600
-            jupyter nbconvert --to html "$nb" --output "executed/$(basename "$nb" .ipynb).html"
+            jupyter nbconvert --to html "$nb" --output-dir executed --output "$(basename "$nb" .ipynb)"
           done
 
       - name: Upload executed notebooks (HTML)
