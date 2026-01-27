@@ -1,0 +1,17 @@
+name: audit-tutorials
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pandas>=2.3.3
+  - numpy>=1.26
+  - matplotlib>=3.10
+  - seaborn>=0.13
+  - openpyxl
+  - jupyterlab
+  - ipykernel
+  - nbconvert
+  - nbclient
+  - pip:
+    - papermill
