@@ -1,0 +1,101 @@
+Transaction_ID,Date,Vendor,Amount,Department,Approved_By,Payment_Method
+T0001,2024-01-03,Staples,124.50,Marketing,J. Rivera,Credit Card
+T0002,2024-01-05,AWS,3200.00,Engineering,S. Patel,ACH
+T0003,2024-01-07,Office Depot,87.25,HR,M. Chen,Credit Card
+T0004,2024-01-08,Delta Airlines,1450.00,Sales,J. Rivera,Credit Card
+T0005,2024-01-10,Adobe,599.99,Marketing,M. Chen,ACH
+T0006,2024-01-11,Zoom,149.00,IT,S. Patel,ACH
+T0007,2024-01-14,FedEx,62.10,Operations,L. Gomez,Credit Card
+T0008,2024-01-15,Marriott,980.00,Sales,J. Rivera,Credit Card
+T0009,2024-01-16,AWS,4100.00,Engineering,S. Patel,ACH
+T0010,2024-01-17,Uber,43.75,HR,M. Chen,Credit Card
+T0011,2024-01-18,Slack,320.00,IT,S. Patel,ACH
+T0012,2024-01-21,United Airlines,2200.00,Sales,J. Rivera,Credit Card
+T0013,2024-01-22,Staples,55.40,Operations,L. Gomez,Credit Card
+T0014,2024-01-23,GitHub,420.00,Engineering,S. Patel,ACH
+T0015,2024-01-24,Hilton,760.00,Marketing,J. Rivera,Credit Card
+T0016,2024-01-25,UPS,38.90,Operations,L. Gomez,Credit Card
+T0017,2024-01-28,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0018,2024-01-29,Office Depot,112.80,HR,M. Chen,Credit Card
+T0019,2024-01-30,Zoom,149.00,IT,S. Patel,ACH
+T0020,2024-01-31,AWS,2875.00,Engineering,S. Patel,ACH
+T0021,2024-02-01,FedEx,74.20,Operations,L. Gomez,Credit Card
+T0022,2024-02-02,Delta Airlines,1890.00,Sales,J. Rivera,Credit Card
+T0023,2024-02-05,Staples,99.95,Marketing,M. Chen,Credit Card
+T0024,2024-02-06,Adobe,599.99,Marketing,M. Chen,ACH
+T0025,2024-02-07,Marriott,1100.00,HR,M. Chen,Credit Card
+T0026,2024-02-08,GitHub,420.00,Engineering,S. Patel,ACH
+T0027,2024-02-09,Uber,31.50,Sales,J. Rivera,Credit Card
+T0028,2024-02-12,Slack,320.00,IT,S. Patel,ACH
+T0029,2024-02-13,UPS,55.60,Operations,L. Gomez,Credit Card
+T0030,2024-02-14,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0031,2024-02-15,AWS,3750.00,Engineering,S. Patel,ACH
+T0032,2024-02-16,Office Depot,143.20,HR,M. Chen,Credit Card
+T0033,2024-02-19,United Airlines,1650.00,Marketing,J. Rivera,Credit Card
+T0034,2024-02-20,Zoom,149.00,IT,S. Patel,ACH
+T0035,2024-02-21,FedEx,88.40,Operations,L. Gomez,Credit Card
+T0036,2024-02-22,Staples,67.30,HR,M. Chen,Credit Card
+T0037,2024-02-23,Adobe,599.99,Engineering,S. Patel,ACH
+T0038,2024-02-26,Hilton,840.00,Sales,J. Rivera,Credit Card
+T0039,2024-02-27,GitHub,420.00,Engineering,S. Patel,ACH
+T0040,2024-02-28,AWS,5100.00,Engineering,S. Patel,ACH
+T0041,2024-03-01,Uber,28.90,HR,M. Chen,Credit Card
+T0042,2024-03-04,Delta Airlines,2100.00,Sales,J. Rivera,Credit Card
+T0043,2024-03-05,UPS,44.75,Operations,L. Gomez,Credit Card
+T0044,2024-03-06,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0045,2024-03-07,Slack,320.00,IT,S. Patel,ACH
+T0046,2024-03-08,Marriott,920.00,Marketing,J. Rivera,Credit Card
+T0047,2024-03-11,Office Depot,78.60,Operations,L. Gomez,Credit Card
+T0048,2024-03-12,AWS,3300.00,Engineering,S. Patel,ACH
+T0049,2024-03-13,Staples,115.40,Marketing,M. Chen,Credit Card
+T0050,2024-03-14,Adobe,599.99,Marketing,M. Chen,ACH
+T0051,2024-03-15,United Airlines,1750.00,Sales,J. Rivera,Credit Card
+T0052,2024-03-18,GitHub,420.00,Engineering,S. Patel,ACH
+T0053,2024-03-19,FedEx,51.30,Operations,L. Gomez,Credit Card
+T0054,2024-03-20,Zoom,149.00,IT,S. Patel,ACH
+T0055,2024-03-21,Hilton,1050.00,Sales,J. Rivera,Credit Card
+T0056,2024-03-22,Uber,37.40,HR,M. Chen,Credit Card
+T0057,2024-03-25,UPS,62.80,Operations,L. Gomez,Credit Card
+T0058,2024-03-26,AWS,4400.00,Engineering,S. Patel,ACH
+T0059,2024-03-27,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0060,2024-03-28,Office Depot,95.20,HR,M. Chen,Credit Card
+T0061,2024-04-01,Delta Airlines,1320.00,Marketing,J. Rivera,Credit Card
+T0062,2024-04-02,Slack,320.00,IT,S. Patel,ACH
+T0063,2024-04-03,Staples,88.75,Operations,L. Gomez,Credit Card
+T0064,2024-04-04,Adobe,599.99,Marketing,M. Chen,ACH
+T0065,2024-04-05,GitHub,420.00,Engineering,S. Patel,ACH
+T0066,2024-04-08,Marriott,1200.00,Sales,J. Rivera,Credit Card
+T0067,2024-04-09,AWS,2950.00,Engineering,S. Patel,ACH
+T0068,2024-04-10,FedEx,69.50,Operations,L. Gomez,Credit Card
+T0069,2024-04-11,United Airlines,1980.00,Sales,J. Rivera,Credit Card
+T0070,2024-04-12,Uber,22.60,HR,M. Chen,Credit Card
+T0071,2024-04-15,Zoom,149.00,IT,S. Patel,ACH
+T0072,2024-04-16,Office Depot,131.40,HR,M. Chen,Credit Card
+T0073,2024-04-17,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0074,2024-04-18,AWS,3600.00,Engineering,S. Patel,ACH
+T0075,2024-04-19,Hilton,890.00,Marketing,J. Rivera,Credit Card
+T0076,2024-04-22,UPS,47.30,Operations,L. Gomez,Credit Card
+T0077,2024-04-23,Staples,73.20,Marketing,M. Chen,Credit Card
+T0078,2024-04-24,GitHub,420.00,Engineering,S. Patel,ACH
+T0079,2024-04-25,Adobe,599.99,Engineering,S. Patel,ACH
+T0080,2024-04-26,Delta Airlines,1560.00,Sales,J. Rivera,Credit Card
+T0081,2024-04-29,Slack,320.00,IT,S. Patel,ACH
+T0082,2024-04-30,FedEx,83.10,Operations,L. Gomez,Credit Card
+T0083,2024-05-01,Marriott,1040.00,Sales,J. Rivera,Credit Card
+T0084,2024-05-02,AWS,4800.00,Engineering,S. Patel,ACH
+T0085,2024-05-03,Office Depot,108.90,HR,M. Chen,Credit Card
+T0086,2024-05-06,Uber,45.20,Sales,J. Rivera,Credit Card
+T0087,2024-05-07,Salesforce,6500.00,Sales,J. Rivera,ACH
+T0088,2024-05-08,United Airlines,2350.00,Marketing,J. Rivera,Credit Card
+T0089,2024-05-09,Zoom,149.00,IT,S. Patel,ACH
+T0090,2024-05-10,GitHub,420.00,Engineering,S. Patel,ACH
+T0091,2024-05-13,UPS,58.40,Operations,L. Gomez,Credit Card
+T0092,2024-05-14,Staples,92.60,HR,M. Chen,Credit Card
+T0093,2024-05-15,Adobe,599.99,Marketing,M. Chen,ACH
+T0094,2024-05-16,AWS,3100.00,Engineering,S. Patel,ACH
+T0095,2024-05-17,Hilton,780.00,Sales,J. Rivera,Credit Card
+T0096,2024-05-20,Slack,320.00,IT,S. Patel,ACH
+T0097,2024-05-21,FedEx,41.70,Operations,L. Gomez,Credit Card
+T0098,2024-05-22,Delta Airlines,1730.00,Sales,J. Rivera,Credit Card
+T0099,2024-05-23,Office Depot,119.50,HR,M. Chen,Credit Card
+T0100,2024-05-24,Salesforce,6500.00,Sales,J. Rivera,ACH
