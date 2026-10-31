@@ -39,7 +39,7 @@ This repository contains interactive tutorials and example notebooks designed to
 ## Getting started
 
 ### Prerequisites
-- Python 3.10+ (3.10 recommended)
+- Python 3.12+ (3.12 recommended)
 - Git (to clone the repo)
 - JupyterLab or Jupyter Notebook (for local development)
 
